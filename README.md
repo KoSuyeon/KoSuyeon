@@ -86,6 +86,8 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazon rds&logoColor=white">
 </div><br>
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kko_ba)](https://solved.ac/kko_ba/)  
  
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
