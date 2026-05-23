@@ -38,7 +38,11 @@
     
 ### 💻 Project 💻
 <ul>
-    <li>('23.07~'23.08) ViViT 기반의 영유아 발달 관찰 보조를 위한 행동 인식 시스템 구축</li>
+    <li>('23.07~'23.08) ViViT 기반의 영유아 발달 관찰 보조를 위한 행동 인식 시스템 구축
+        <a href="https://github.com/KoSuyeon/vivit-child-action-recognition">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+        </a>
+    </li>
     <li>('23.06~'23.07) XGBoost를 이용한 음악 장르 분류모델 구축 및 유사곡 추천
         <a href="https://github.com/KoSuyeon/music-genre-classification">
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
