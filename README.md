@@ -16,6 +16,16 @@
 
 ### 📝 Study 📝
 <div style="display:flex; flex-direction:row;">
+    <li>🧮Static Analysis</li>
+    <li>📊DataMining</li>
+    <li>🧠Machine Learning</li>
+    <li>💭Deep Learning</li>
+    <li>📙Language Model</li>
+    <li>🖼️Computer Vision</li>
+    <li>🤖Reinforcement Learning</li>
+    <li>☁️Cloud Computing</li> 
+</div><br>
+<div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/1dd0c0c062f880d8a398e1452c13599e?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
