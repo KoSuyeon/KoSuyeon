@@ -28,7 +28,17 @@
 ### 🧑‍💼 Career 🧑‍💼
 ('24.01~'26.02) (주)이씨마이너 주임 - 데이터분석, 서비스기획, 딥러닝연구, 자연어처리, 챗봇개발 [2년 2개월]
 <ul>
-    <li> ('25.04~'26.02) [SK에너지] 설비관리 작업요청 AI챗봇 개발 </li>
+    <li> ('25.04~'26.02) [SK에너지] 설비관리 작업요청 AI챗봇 개발 
+        <a href="https://github.com/KoSuyeon/SKAI-project">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/KoSuyeon/skai-generate_fault_sentences">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/KoSuyeon/PMark2.5">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+        </a>
+    </li>
     <li> ('24.11~'26.02) [POSCO] 고로 공정 도메인 지식특화 챗봇 개발 </li>
     <li> ('24.10~'26.02) [교재집필] ECMiner™로 시작하는 인공지능 분석 </li>
     <li> ('25.03~'25.05) [학회] 2025한국데이터정보학회 춘계학술논문발표회 기술 발표</li>
