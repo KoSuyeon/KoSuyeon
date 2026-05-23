@@ -16,7 +16,7 @@
 
 ### 📝 Study 📝
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/a7f7fe31051d48d5b0f5090bb57e819c?pvs=4">
+    <a href="https://https://www.notion.so/1dd0c0c062f880d8a398e1452c13599e?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
