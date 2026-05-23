@@ -49,7 +49,7 @@
     <li>('22.01) 국민의 약제 복용 현황분석 및 고령자 대상의 앱 서비스 기획</li>
     <li>('21.12) 텍스트마이닝과 지오코딩을 활용한 해외 제조업소를 분류하는 알고리즘 구축</li>
     <li>('21.11~'21.12) 민원 데이터를 이용한 시도청별 우선 해결 민원 추천 시스템 구축</li>
-    <li>('21.04~'21.06) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
+    <li>('21.04~'21.07) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
         <a href="https://github.com/KoSuyeon/ksic-lstm-classifier">
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
         </a>
