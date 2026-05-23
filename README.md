@@ -2,9 +2,7 @@
 <div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffebd9&text=Welcome%20to%20Suyeon's%20GitHub%20👋&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
----
 
-<br>
 
 ## Hi, I'm suyeon ko. 👋
 
