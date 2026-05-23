@@ -49,9 +49,16 @@
         </a>
     </li>
     <li>('23.04) Transformers 기반 한영 번역기 모델 구축</li>
-    <li>('22.02) 감귤 생산량 추정을 위한 나무 상태 기반, 감귤의 착과량 예측 모델 구축</li>
-    <li>('22.01) 국민의 약제 복용 현황분석 및 고령자 대상의 앱 서비스 기획</li>
-    <li>('21.12) 텍스트마이닝과 지오코딩을 활용한 해외 제조업소를 분류하는 알고리즘 구축</li>
+    <li>('22.02) 감귤 생산량 추정을 위한 나무 상태 기반, 감귤의 착과량 예측 모델 구축
+        <a href="https://github.com/KoSuyeon/nfsi-public-data-analysis-reports/blob/main/reports/6.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_3.pdf">
+            <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
+        </a>
+    </li>
+    <li>('21.12) 텍스트마이닝과 지오코딩을 활용한 해외 제조업소를 분류하는 알고리즘 구축
+        <a href="https://github.com/KoSuyeon/nfsi-public-data-analysis-reports/blob/main/reports/4.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_1.pdf">
+            <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
+        </a>
+    </li>
     <li>('21.11~'21.12) 민원 데이터를 이용한 시도청별 우선 해결 민원 추천 시스템 구축</li>
     <li>('21.04~'21.07) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
         <a href="https://github.com/KoSuyeon/ksic-lstm-classifier">
