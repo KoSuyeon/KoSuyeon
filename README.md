@@ -16,23 +16,22 @@
 
 ### 📝 Study 📝
 <div style="display:flex; flex-direction:row;">
-    <li>🧮Static Analysis</li>
-    <li>📊DataMining</li>
-    <li>🧠Machine Learning</li>
-    <li>💭Deep Learning</li>
-    <li>📙Language Model</li>
-    <li>🖼️Computer Vision</li>
-    <li>🤖Reinforcement Learning</li>
-    <li>☁️Cloud Computing</li> 
-</div><br>
-<div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/1dd0c0c062f880d8a398e1452c13599e?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-</div><br>
+<ul>
+    <li>🧮 Static Analysis</li>
+    <li>📊 Data Mining</li>
+    <li>🧠 Machine Learning</li>
+    <li>💭 Deep Learning</li>
+    <li>📙 Language Model</li>
+    <li>🖼️ Computer Vision</li>
+    <li>🤖 Reinforcement Learning</li>
+    <li>☁️ Cloud Computing</li>
+</ul>
 
 ### 💻 Project 💻
-<div style="display:flex; flex-direction:row;">
+<ul>
     <li>(23.07 ~ 23.08) ViViT 기반의 영유아 발달 관찰 보조를 위한 행동 인식 시스템 구축</li>
     <li>(23.06 ~ 23.07) XGBoost를 이용한 음악 장르 분류 모델 구축</li>
     <li>(23.05) Transformers 기반 한영 번역기 모델 구축</li>
@@ -43,15 +42,15 @@
     <li>(21.04 ~ 21.06) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축</li>
     <li>(20.05 ~ 20.06) 뉴미디어에서 사용되는 혐오 표현 노출에 따른 인식차이 연구</li>
     <li>(20.04 ~ 20.06) 수원시 스마트 버스정류장 우선 설치위치 선정 알고리즘 구축 및 시각화</li>
-</div><br>
+</ul>
 
 ### 💪 Experience 💪
-<div style="display:flex; flex-direction:row;">
+<ul>
     <li>(2023.06 ~ 2023.08) 데이터 청년 캠퍼스-고려대학교 과정 수료</li>
     <li>(2022.09 ~ 2022.02) 식품안전정보원 정보화사업실 통합정보시스템부 인턴십</li>
     <li>(2022.06 ~ 2022.08) 데이터 분석 청년인재 양성사업 교육 수료</li>
     <li>(2020.09 ~ 2022.08) 교내 데이터 분석 동아리 Daja Vu 활동 수료</li>
-</div><br>
+</ul>
 
 ### 🏆 Award 🏆
 <div style="display:flex; flex-direction:row;">
