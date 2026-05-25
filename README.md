@@ -103,6 +103,9 @@
     <a href="https://youtu.be/kSq1KhVc2dQ?si=A6TH50BMMhWOjwTd">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=white"> 
     </a>
+    <a href="https://github.com/KoSuyeon/environmental-equity-gis-analysis">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+    </a>
     <a href="https://github.com/KoSuyeon/environmental-equity-gis-analysis/blob/main/presentation/green_infra_presentation.pdf">
         <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
     </a>
