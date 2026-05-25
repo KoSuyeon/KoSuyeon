@@ -109,11 +109,11 @@
     )<br>
   🥉(2022년 LH 한국토지주택공사) 국토도시 데이터 분석 과제 : 입상
     <br>- 시민안전 사각지대 해소를 위한 CCTV설치위치 선정(   
-    <a href="https://github.com/KoSuyeon/cctv-location-selection">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-    </a>
     <a href="https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2206_001">
         <img src="https://img.shields.io/badge/Task-FF0000?style=social&logo=task&logoColor=white"> 
+    </a>
+    <a href="https://github.com/KoSuyeon/cctv-location-selection">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
     </a>
     )
 </div><br>
