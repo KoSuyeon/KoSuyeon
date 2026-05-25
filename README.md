@@ -100,14 +100,14 @@
     )<br>
   🥈(2022년 서울시 빅데이터캠퍼스) 서울시 빅데이터 캠퍼스 공모전 : 우수상(서울특별시장상)
     <br>- 환경형평성을 고려한 서울시 내 그린 인프라 조성(
-    <a href="https://youtu.be/kSq1KhVc2dQ?si=A6TH50BMMhWOjwTd">
-        <img src="https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=white"> 
-    </a>
     <a href="https://github.com/KoSuyeon/environmental-equity-gis-analysis">
         <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
     </a>
     <a href="https://github.com/KoSuyeon/environmental-equity-gis-analysis/blob/main/presentation/green_infra_presentation.pdf">
         <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
+    </a>
+    <a href="https://youtu.be/kSq1KhVc2dQ?si=A6TH50BMMhWOjwTd">
+        <img src="https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=white"> 
     </a>
     )<br>
   🥉(2022년 LH 한국토지주택공사) 국토도시 데이터 분석 과제 : 입상
