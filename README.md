@@ -106,7 +106,6 @@
     <a href="https://github.com/KoSuyeon/environmental-equity-gis-analysis/blob/main/presentation/green_infra_presentation.pdf">
         <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
     </a>
-    
     )<br>
   🥉(2022년 LH 한국토지주택공사) 국토도시 데이터 분석 과제 : 입상
     <br>- 시민안전 사각지대 해소를 위한 CCTV설치위치 선정(   
