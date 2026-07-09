@@ -61,7 +61,7 @@
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
         </a>
     </li>
-    <li>('23.04) Transformers 기반 한영 번역기 모델 구축</li>
+    <!-- <li>('23.04) Transformers 기반 한영 번역기 모델 구축</li> -->
     <li>('22.12) 감귤 생산량 추정을 위한 나무 상태 기반, 감귤의 착과량 예측 모델 구축
         <a href="https://github.com/KoSuyeon/nfsi-public-data-analysis-reports/blob/main/reports/6.(붙임3)2022_데이터분석_분석결과보고서_식품안전정보원_고수연(Y220224)_3.pdf">
             <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
