@@ -10,7 +10,7 @@
 
 
 ### 📝 Study 📝
-성신여자대학교 통계학과, 정보시스템공학과(AI학부) 전공
+성신여자대학교 통계학과, 정보시스템공학과 전공
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/1dd0c0c062f880d8a398e1452c13599e?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-808080?style=for-the-badge&logo=Notion&logoColor=white"> 
