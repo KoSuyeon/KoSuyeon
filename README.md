@@ -72,8 +72,8 @@
             <img src="https://img.shields.io/badge/PDF-Report-red?style=plastic&logo=adobeacrobatreader">
         </a>
     </li>
+    <li>('22.04~'22.07) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
     <li>('21.11~'21.12) 민원 데이터를 이용한 시도청별 우선 해결 민원 추천 시스템 구축</li>
-    <li>('21.04~'21.07) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
         <a href="https://github.com/KoSuyeon/ksic-lstm-classifier">
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
         </a>
