@@ -73,11 +73,11 @@
         </a>
     </li>
     <li>('22.04~'22.07) LSTM 모델을 사용한 자연어 기반 산업종류 대중소 분류모델 구축
-    <li>('21.11~'21.12) 민원 데이터를 이용한 시도청별 우선 해결 민원 추천 시스템 구축</li>
         <a href="https://github.com/KoSuyeon/ksic-lstm-classifier">
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
         </a>
     </li>
+    <li>('21.11~'21.12) 민원 데이터를 이용한 시도청별 우선 해결 민원 추천 시스템 구축</li>
     <li>('20.05~'20.06) 뉴미디어에서 사용되는 혐오 표현 노출에 따른 인식차이 연구</li>
     <li>('20.04~'20.06) 수원시 스마트 버스정류장 우선 설치위치 선정 알고리즘 구축 및 시각화</li>
 </ul>
