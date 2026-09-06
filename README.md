@@ -89,7 +89,7 @@
 
 ### 💪 Experience 💪
 <ul>
-    <li>('26.06~) kt cloud tech up-생성형AI 과정 수강 중</li>
+    <li>('26.06~'26.09) kt cloud tech up-생성형AI 과정 수강 중</li>
     <li>('23.06~'23.08) 데이터 청년 캠퍼스-고려대학교 과정 수료</li>
     <li>('22.09~'23.02) 식품안전정보원 정보화사업실 통합정보시스템부 인턴십</li>
     <li>('22.06~'22.08) 데이터 분석 청년인재 양성사업 교육 수료</li>
@@ -143,13 +143,10 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <br>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazon rds&logoColor=white">
+
 </div><br>
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kko_ba)](https://solved.ac/kko_ba/)  
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kko_ba)](https://solved.ac/kko_ba/)  -->
  
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
