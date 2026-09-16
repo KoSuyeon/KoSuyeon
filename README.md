@@ -51,8 +51,8 @@
     
 ### 💻 Project 💻
 <ul>
-    <li>('26.07~'26.08) 개인 맞춤형 건강관리 AI Assistant 개발
-        <a href="https://github.com/Heapy-AI/heapy-ai-health">
+    <li>('26.07~'26.08) 개인 맞춤형 건강관리 AI Assistant Heapy 개발
+        <a href="https://github.com/Heapy-AI">
             <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
         </a>
     </li>
